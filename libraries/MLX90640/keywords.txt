@@ -7,3 +7,4 @@ getTempMatrix		KEYWORD2
 getMaxTemp		KEYWORD2
 getMinTemp		KEYWORD2
 test			KEYWORD2
+test2 			KEYWORD2
