@@ -1,0 +1,8 @@
+MLX90640		KEYWORD1
+
+wakeupSensor		KEYWORD2
+initialize		KEYWORD2
+capture			KEYWORD2
+getTempMatrix		KEYWORD2
+getMaxTemp		KEYWORD2
+getMinTemp		KEYWORD2
